@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning javascript.
 - 📫 Want to get in touch? You can find me on Discord with the username Blijonas#4192!
+- 📄 Check out my portfolio website! **https://balionelis.github.io/**
 
 <!--
 **Balionelis/Balionelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
