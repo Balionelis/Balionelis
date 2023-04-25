@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript & python.
 - 📫 Want to get in touch? You can find me on Discord with the username Blijonas#4192
 - 📄 Check out my portfolio website! **https://balionelis.github.io/**
 
