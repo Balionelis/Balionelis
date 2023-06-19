@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning javascript & python.
 - 📫 Want to get in touch? You can find me on Discord with the username Blijonas#4192
-- 📄 Check out my portfolio website! **https://balionelis.github.io/**
+- 📄 Check out my portfolio website! **https://balionelis.github.io/
+- 🎥 Here is my movie finder website! **https://balionelis.github.io/moviefinder/**
 
 <!--
 **Balionelis/Balionelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
