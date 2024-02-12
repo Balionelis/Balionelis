@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/uKKLERn.png" position="absolute"  width='200'>
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning React
