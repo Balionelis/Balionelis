@@ -5,6 +5,7 @@
 - 📄 Check out my portfolio website! **https://blijonas.space/**
 - 🎥 Here is my movie finder website! **https://blijonas.tech/**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balionelis&layout=compact&theme=dark)
 <!--
 **Balionelis/Balionelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
