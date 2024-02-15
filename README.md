@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React<br>📫 Want to get in touch? 📄 Check out my portfolio website! https://blijonas.space/<br>🎥 Here is my movie finder website! https://blijonas.tech/
+🌱 I’m currently learning React<br>📫 Want to get in touch? 📄 Check out my portfolio website! https://blijonas.space/<br>🎥 Here is my movie finder website! https://moviefinder-lovat.vercel.app/
 
 
 ## 🌐 Socials:
