@@ -1,8 +1,30 @@
+```python
+read_me.py
+# Hey there! 👋 Welcome to my GitHub Profile!
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balionelis&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 🧑 About Me
+username = "Balionelis"
+age = 17  
+location = "Lithuania"
+tech_stack = ["Python", "JavaScript", "React", "C++"]
 
----
-[![](https://visitcount.itsvg.in/api?id=Balionelis&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🚀 What I'm Working On
+projects = {
+    "Note-Sharing App": "Using PyQt5",
+    "Exploration": "New tech & libraries"
+}
+
+# 🔗 Connect with Me
+links = {
+    "Discord": "blijonas",
+    "X": "https://x.com/balioncikas"
+}
+
+# 🛠️ Tools & Tech I Use
+tools = [
+    "GitHub", "Git", "NPM", "Firebase", "Vercel", "Figma"
+]
+
+# Fun Quote
+quote = "Code is like humor. When you have to explain it, it’s bad. 😆"
+```
