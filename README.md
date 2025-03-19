@@ -16,6 +16,7 @@ projects = {
 
 # 🔗 Connect with Me
 links = {
+    "Portfolio": "https://blijonas.vercel.app/"
     "Discord": "blijonas",
     "X": "https://x.com/balioncikas"
 }
