@@ -10,8 +10,7 @@ tech_stack = ["Python", "JavaScript", "TypeScript", "React", "C++"]
 
 # 🚀 What I'm Working On
 projects = {
-    "Note-Sharing App": "Using PyQt5",
-    "Exploration": "New tech & libraries"
+    "SkyCrypt+": "Using Electron/TypeScript",
 }
 
 # 🔗 Connect with Me
