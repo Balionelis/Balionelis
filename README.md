@@ -6,7 +6,7 @@ read_me.py
 username = "Balionelis"
 age = 17  
 location = "Lithuania"
-tech_stack = ["Python", "JavaScript", "React", "C++"]
+tech_stack = ["Python", "JavaScript", "TypeScript", "React", "C++"]
 
 # 🚀 What I'm Working On
 projects = {
