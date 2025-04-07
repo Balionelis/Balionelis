@@ -28,3 +28,4 @@ tools = [
 # Fun Quote
 quote = "Code is like humor. When you have to explain it, it’s bad. 😆"
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balionelis&theme=github_dark&layout=compact&langs_count=4&hide=css)
