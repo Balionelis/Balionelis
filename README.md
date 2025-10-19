@@ -24,4 +24,3 @@ tools = [
     "GitHub", "Git", "NPM", "Firebase", "Vercel", "Figma"
 ]
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balionelis&theme=github_dark&layout=compact&langs_count=4&hide=css)
