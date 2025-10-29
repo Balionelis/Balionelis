@@ -4,7 +4,7 @@ read_me.py
 
 # 🧑 About Me
 name = "Visvaldas"
-age = 17  
+age = 18
 location = "Lithuania"
 tech_stack = ["Python", "JavaScript", "C++"]
 
