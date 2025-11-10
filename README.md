@@ -10,7 +10,7 @@ tech_stack = ["Python", "JavaScript", "C++"]
 
 # 🚀 What I'm Working On
 projects = {
-    Nothing
+    "Ranklab": "https://ranklab.dev/"
 }
 
 # 🔗 Connect with Me
