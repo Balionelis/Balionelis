@@ -6,21 +6,18 @@ read_me.py
 name = "Visvaldas"
 age = 18
 location = "Lithuania"
-tech_stack = ["Python", "JavaScript", "C++"]
+status = "Senior year high school student"
 
 # 🚀 What I'm Working On
 projects = {
-    "Ranklab": "https://ranklab.dev/"
+    "RankLab": "https://ranklab.dev/",
+    "SkyCrypt+": "https://github.com/Balionelis/SkyCryptPlus"  # Archived
 }
 
 # 🔗 Connect with Me
 links = {
+    "Portfolio": "https://balionidas.xyz/",
     "Discord": "blijonas",
     "X": "https://x.com/balioncikas"
 }
-
-# 🛠️ Tools & Tech I Use
-tools = [
-    "GitHub", "Git", "NPM", "Firebase", "Vercel", "Figma"
-]
 ```
